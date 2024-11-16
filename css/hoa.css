@@ -40,3 +40,12 @@ nav a:hover {
 #compost {
 	color: red;
 }
+footer {
+	background-color: #333;
+	color: white;
+	padding: 14px 20px;
+	text-align: left;
+}
+footer > a {
+	color: white;
+}
